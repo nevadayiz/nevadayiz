@@ -29,26 +29,13 @@
 
 ## 🍭 Learnings
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nevadayiz&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevadayiz&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 📌 Achievements
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=nevadayiz&theme=tokyonight&row=1&column=6"/>
-</p>
-
 ---
 
 ## 🔮 Activities
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevadayiz&theme=tokyo-night"/>
-</p>
 
 ---
 
