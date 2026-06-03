@@ -12,8 +12,8 @@
 
 ## 💜 About Me
 
-- 🎆 Desenvolvedor Lua e JavaScript
-- 🎏 Criando projetos para Roblox
+- 🎆 Desenvolvedor Lua, JS e Sistemas
+- 🎏 Criando diversificados projetos para jogos
 - 🍥 Aprendendo novas tecnologias constantemente
 - 🧁 Interesse em automação, interfaces e sistemas
 
