@@ -1,4 +1,4 @@
-<h1 align="center">🎀 Hablas, Nevada te ouçaras</h1>
+<h1 align="center">🎀 Hable, Nevada te ouviras</h1>
 
 <p align="center">
  ✨ Desenvolvendo Lua, JavaScript e Sistemas. ✨
