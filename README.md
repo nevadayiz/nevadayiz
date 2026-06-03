@@ -37,6 +37,10 @@
 
 ## 🔮 Activities
 
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevadayiz&theme=tokyo-night"/>
+</p>
+
 ---
 
 ## 🩸 Contact
