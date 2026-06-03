@@ -54,7 +54,7 @@
 
 ## 📫 Contato
 
-- GitHub: https://github.com/nevadayiz
+- Discord: @esbeldade
 
 ---
 
