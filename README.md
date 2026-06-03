@@ -33,6 +33,10 @@
 
 ## 📌 Achievements
 
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=nevadayiz&theme=tokyonight&row=1&column=6"/>
+</p>
+
 ---
 
 ## 🔮 Activities
