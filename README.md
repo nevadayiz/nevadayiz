@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Nevada</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por Lua, JavaScript e criação de sistemas para Roblox.
+  Desenvolvendo Lua, JavaScript e criação de sistemas para Roblox.
 </p>
 
 <p align="center">
