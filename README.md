@@ -12,7 +12,7 @@
 
 ## 💜 About Me
 
-- 🎆 Desenvolvedor Lua, JS e Sistemas
+- 🎆 Desenvolvendo Lua, JS e Sistemas
 - 🎏 Criando diversificados projetos para jogos
 - 🍥 Aprendendo novas tecnologias constantemente
 - 🧁 Interesse em automação, interfaces e sistemas
