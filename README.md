@@ -45,7 +45,7 @@
 
 ## 🩸 Contact
 
-- Discord: @esbeldade
+- Discord: @malpressentimento
 
 ---
 
